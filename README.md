@@ -1,8 +1,10 @@
 2026/09/16 17:51:33
 
-<!-- notify 1/2 · FhwjRyNM -->
-## Notification 1/2
-Round: Round 1
-To: morenoashley40@yahoo.com, morenodawon@yahoo.com
-At: 2026-09-16 17:52:08
-Id: FhwjRyNM
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: morenojohnny78@yahoo.com, morenojose1020@yahoo.com
+At: 2026-09-16 17:52:17
+Id: gdgpO9KE
